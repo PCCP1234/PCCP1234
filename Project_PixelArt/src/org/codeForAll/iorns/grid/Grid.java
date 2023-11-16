@@ -5,7 +5,6 @@ import org.academiadecodigo.simplegraphics.graphics.Rectangle;
 
 import java.io.*;
 import java.util.ArrayList;
-import java.util.List;
 
 
 public class Grid {
@@ -39,38 +38,36 @@ public class Grid {
     }
 
 
-    public Rectangle makeGrid() {
+    public void makeGrid() {
         Rectangle grid = new Rectangle(PADDING, PADDING, this.cols * squareSize, this.cols * squareSize);
         int ini = PADDING;
         while (ini <= grid.getHeight()) {
             for (int i = PADDING; i < grid.getWidth() + 1; i = (i + squareSize)) {
-                Rectangle lineSquare = new Rectangle(i, ini, squareSize, squareSize);
-                lineSquare.draw();
-                rectangles.add(lineSquare);
+                Rectangle rectangle = new Rectangle(i, ini, squareSize, squareSize);
+                rectangle.draw();
+                rectangles.add(rectangle);
             }
             ini += squareSize;
         }
-        return grid;
     }
 
 
     public void paintSquare() {
         for (int i = 0; i < rectangles.size(); i++) {
-            System.out.println("aqui");
             Rectangle rectangle = rectangles.get(i);
             if (rectangle.getX() == player.getPlayerPosX() && rectangle.getY() == player.getPlayerPosY()) {
-                if (!rectangle.isFilled()) {
-                    rectangle.setColor(Color.BLACK);
-                    rectangle.fill();
-                    rectanglesPaint.add(rectangle);
-                } else {
-                    //rectangle.delete();
-                    rectangle.draw();
-                    rectanglesPaint.remove(rectangle);
+                    if (!rectangle.isFilled()) {
+                        rectangle.setColor(Color.BLACK);
+                        rectangle.fill();
+                        rectanglesPaint.add(rectangle);
+                    } else {
+                        rectangle.draw();
+                        rectangles.remove(rectangle);
+                    }
                 }
             }
         }
-    }
+
 
 
 
@@ -93,14 +90,16 @@ public class Grid {
         }
     }
 
-    // não faz clear all
+
     public void clearAll() {
-        if(!rectanglesPaint.isEmpty()) {
-            rectanglesPaint.clear();
-        }
+        for (Rectangle rectangle: rectanglesPaint) {
+            rectangle.delete();
+            rectangle.draw();
+            }
     }
 
-//Quando faço o load, depois não me deixa despintar
+
+
     public void load() {
         try {
             FileReader fileReader = null;
@@ -113,11 +112,11 @@ public class Grid {
             String line = " ";
             while ((line = bufferedReader.readLine()) != null) {
                 String[] result = line.split(" ");
-                Rectangle rectangle = new Rectangle(Integer.parseInt(result[0]), Integer.parseInt(result[1]), squareSize, squareSize);
-                rectangle.setColor(Color.BLACK);
-                rectangle.fill();
-                rectanglesPaint.add(rectangle);
-            }
+                    Rectangle rectangle = new Rectangle(Integer.parseInt(result[0]), Integer.parseInt(result[1]), squareSize, squareSize);
+                    rectangle.setColor(Color.BLACK);
+                    rectangle.fill();
+                    rectanglesPaint.add(rectangle);
+                }
             bufferedReader.close();
 
 

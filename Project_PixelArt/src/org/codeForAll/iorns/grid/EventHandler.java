@@ -81,7 +81,7 @@ public class EventHandler implements KeyboardHandler {
         clearAll.setKeyboardEventType(KeyboardEventType.KEY_PRESSED);
         clearAll.setKey(KeyboardEvent.KEY_C);
 
-        aa.addEventListener(delete);
+        aa.addEventListener(clearAll);
     }
 
 

@@ -10,7 +10,5 @@ public class SandBox {
 
         grid.makeGrid();
 
-
-
     }
 }

@@ -9,6 +9,7 @@ public class SandBox {
         Grid grid = new Grid(20,20);
 
         grid.makeGrid();
+        grid.setPlayer(new Player(grid));
 
     }
 }

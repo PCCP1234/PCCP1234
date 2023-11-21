@@ -29,14 +29,16 @@ public class Grid {
 
 
     public Grid(int cols, int rows) {
-
-        EventHandler eventHandler = new EventHandler(this);
         this.cols = cols;
-        this.player = new Player(this);
         this.rows = rows;
-        eventHandler.setPlayer(player);
     }
 
+    public void setPlayer(Player player) {
+        EventHandler eventHandler = new EventHandler(this);
+        eventHandler.setPlayer(player);
+        this.player = player;
+
+    }
 
     public void makeGrid() {
         Rectangle grid = new Rectangle(PADDING, PADDING, this.cols * squareSize, this.cols * squareSize);
@@ -56,19 +58,18 @@ public class Grid {
         for (int i = 0; i < rectangles.size(); i++) {
             Rectangle rectangle = rectangles.get(i);
             if (rectangle.getX() == player.getPlayerPosX() && rectangle.getY() == player.getPlayerPosY()) {
-                    if (!rectangle.isFilled()) {
-                        rectangle.setColor(Color.BLACK);
-                        rectangle.fill();
-                        rectanglesPaint.add(rectangle);
-                    } else {
-                        rectangle.draw();
-                        rectangles.remove(rectangle);
-                    }
+                if (!rectangle.isFilled()) {
+                    rectangle.setColor(Color.BLACK);
+                    rectangle.fill();
+                    rectanglesPaint.add(rectangle);
+                } else {
+                    rectangle.draw();
+                    rectanglesPaint.remove(rectangle);
+
                 }
             }
         }
-
-
+    }
 
 
     public void save() {
@@ -93,11 +94,11 @@ public class Grid {
 
     public void clearAll() {
         for (Rectangle rectangle: rectanglesPaint) {
-            rectangle.delete();
             rectangle.draw();
-            }
+        }
+            rectanglesPaint.clear();
+        System.out.println(rectanglesPaint);
     }
-
 
 
     public void load() {
@@ -106,23 +107,31 @@ public class Grid {
             try {
                 fileReader = new FileReader("resources/dataSquarePaint.txt");
             } catch (FileNotFoundException e) {
-                throw new RuntimeException(e);
+                e.getMessage();
             }
             BufferedReader bufferedReader = new BufferedReader(fileReader);
             String line = " ";
             while ((line = bufferedReader.readLine()) != null) {
                 String[] result = line.split(" ");
-                    Rectangle rectangle = new Rectangle(Integer.parseInt(result[0]), Integer.parseInt(result[1]), squareSize, squareSize);
-                    rectangle.setColor(Color.BLACK);
-                    rectangle.fill();
-                    rectanglesPaint.add(rectangle);
-                }
+                Rectangle rectangle = getRectanglePosGrid(Integer.parseInt(result[0]),Integer.parseInt(result[1]));
+                rectangle.setColor(Color.BLACK);
+                rectangle.fill();
+                rectanglesPaint.add(rectangle);
+            }
             bufferedReader.close();
-
 
         } catch (RuntimeException | IOException e) {
             throw new RuntimeException(e);
         }
+    }
+
+    public Rectangle getRectanglePosGrid(int x, int y){
+        for (Rectangle rectangle: rectangles) {
+            if (rectangle.getX() == x & rectangle.getY() == y) {
+                return rectangle;
+            }
+        }
+        return null;
     }
 
 

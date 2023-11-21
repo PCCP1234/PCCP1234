@@ -8,6 +8,7 @@ import java.io.FileNotFoundException;
 public class Player {
     Rectangle player;
 
+
     Grid grid;
     public Player(Grid grid) {
         this.grid = grid;

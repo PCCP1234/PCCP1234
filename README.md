@@ -20,8 +20,6 @@
 <img src="https://github.com/PCCP1234/PCCP1234/blob/master/icons/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
 <img src="https://github.com/PCCP1234/PCCP1234/blob/master/icons/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
 <img src="https://github.com/PCCP1234/PCCP1234/blob/master/icons/javascript-original.svg" alt="javascript" width="60" height="60"/>
-<img src="https://github.com/PCCP1234/PCCP1234/blob/master/icons/react-original-wordmark.svg" alt="react" width="60" height="60"/>
-<img src="https://github.com/PCCP1234/PCCP1234/blob/master/icons/android-original-wordmark.svg" alt="android" width="60" height="60"/>
 </p>
 
 #### Database

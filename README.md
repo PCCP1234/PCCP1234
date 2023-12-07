@@ -26,7 +26,7 @@
 
 #### Database
 <p align="left">
-<img src="https://github.com/Drete457/Drete457/blob/master/icons/mysql-original.svg" alt="mysql" width="60" height="60"/>
+<img src="https://github.com/PCCP1234/PCCP1234/blob/master/icons/mysql-original.svg" alt="mysql" width="60" height="60"/>
 </p>
 
 ## Statistics

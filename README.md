@@ -24,7 +24,7 @@
 
 #### Database
 <p align="left">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FMySQL&psig=AOvVaw0lNRJLt-pe2TTXEEVJBj8K&ust=1702224505589000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCoocregoMDFQAAAAAdAAAAABAy" alt="mysql" width="60" height="60"/>
+<img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" alt="mysql" width="60" height="60"/>
 </p>
 
 ## Statistics

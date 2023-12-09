@@ -12,7 +12,6 @@
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" alt="java" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="60" height="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="csharp" width="60" height="60"/>
 </p>
 
 #### Frontend

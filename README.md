@@ -12,7 +12,6 @@
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" alt="java" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="60" height="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="spring" width="60" height="60"/>
 <img src="https://www.svgrepo.com/show/373829/maven.svg" alt="maven" width="60" height="60"/>
 </p>
 
@@ -27,6 +26,17 @@
 #### Database
 <p align="left">
 <img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" alt="mysql" width="60" height="60"/>
+</p>
+
+#### Frameworks
+<p align="left">
+<img src="https://www.mastertheboss.com/wp-content/uploads/2021/12/jpalogo.png" alt="hibernate" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="spring" width="60" height="60"/>
+</p>
+
+#### Tolls
+<p align="left">
+<img src="https://www.coderscampus.com/wp-content/uploads/2016/07/thymeleaf-768x770.png" alt="thymeleaf" width="60" height="60"/>
 </p>
 
 ## Statistics

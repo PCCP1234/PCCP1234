@@ -13,7 +13,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" alt="java" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="spring" width="60" height="60"/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F373829%2Fmaven&psig=AOvVaw1WuNkTMHlOcH2Upu4t18MI&ust=1702226142221000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLD2ttnkgoMDFQAAAAAdAAAAABAD" alt="maven" width="60" height="60"/>
+<img src="https://www.svgrepo.com/show/373829/maven.svg" alt="maven" width="60" height="60"/>
 </p>
 
 #### Frontend

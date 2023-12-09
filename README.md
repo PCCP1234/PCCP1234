@@ -18,8 +18,8 @@
 #### Frontend
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="html5" width="60" height="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" alt="css3" width="60" height="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg" alt="javascript" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css3" width="60" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="60" height="60"/>
 </p>
 
 #### Database

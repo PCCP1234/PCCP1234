@@ -33,7 +33,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="spring" width="60" height="60"/>
 </p>
 
-#### Tolls
+#### Tools
 <p align="left">
 <img src="https://www.coderscampus.com/wp-content/uploads/2016/07/thymeleaf-768x770.png" alt="thymeleaf" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="60" height="60"/>

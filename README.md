@@ -12,6 +12,8 @@
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" alt="java" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="spring" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" alt="maven" width="60" height="60"/>
 </p>
 
 #### Frontend
@@ -19,6 +21,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="html5" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css3" width="60" height="60"/>
 <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="60" height="60"/>
 </p>
 
 #### Database

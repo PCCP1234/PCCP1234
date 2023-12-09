@@ -11,8 +11,7 @@
 #### Backend
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" alt="java" width="60" height="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="60" height="60"/>
-<img src="https://www.svgrepo.com/show/373829/maven.svg" alt="maven" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="csharp" width="60" height="60"/>
 </p>
 
 #### Frontend
@@ -37,6 +36,8 @@
 #### Tolls
 <p align="left">
 <img src="https://www.coderscampus.com/wp-content/uploads/2016/07/thymeleaf-768x770.png" alt="thymeleaf" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="60" height="60"/>
+<img src="https://www.svgrepo.com/show/373829/maven.svg" alt="maven" width="60" height="60"/>
 </p>
 
 ## Statistics

@@ -10,21 +10,21 @@
 ## Technologies I know and I'm learning
 #### Backend
 <p align="left">
-<img src="https://github.com/PCCP1234/PCCP1234/blob/master/icons/java-original.svg" alt="java" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" alt="java" width="60" height="60"/>
 <img src="https://github.com/PCCP1234/PCCP1234/blob/master/icons/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
-<img src="https://github.com/PCCP1234/PCCP1234/blob/master/icons/csharp-original.svg" alt="csharp" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="csharp" width="60" height="60"/>
 </p>
 
 #### Frontend
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="html5" width="60" height="60"/>
-<img src="https://github.com/PCCP1234/PCCP1234/blob/master/icons/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
-<img src="https://github.com/PCCP1234/PCCP1234/blob/master/icons/javascript-original.svg" alt="javascript" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" alt="css3" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg" alt="javascript" width="60" height="60"/>
 </p>
 
 #### Database
 <p align="left">
-<img src="https://github.com/PCCP1234/PCCP1234/blob/master/icons/mysql-original.svg" alt="mysql" width="60" height="60"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FMySQL&psig=AOvVaw0lNRJLt-pe2TTXEEVJBj8K&ust=1702224505589000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCoocregoMDFQAAAAAdAAAAABAy" alt="mysql" width="60" height="60"/>
 </p>
 
 ## Statistics

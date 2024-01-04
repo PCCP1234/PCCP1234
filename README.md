@@ -3,7 +3,7 @@
   <h1 align="center">  My name is Pedro Costa 🔥</h1> 
 </p>
 
-- 🔭 I’m currently finishing a 14 weeks intensive and imersive Bootcamp like Fullstack Developer;
+- 🔭 I’m Junior Fullstack Developer;
 - ⚡ Doing projects in JavaScript and Java;
 - 📫 You can reach me on e-mail [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pmlcosta15@gmail.com)](mailto:pmlcosta15@gmail.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrocosta15/)](https://www.linkedin.com/in/pedrocosta15/) | [![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351919646365)
 

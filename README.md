@@ -11,7 +11,7 @@
 ### 🔣 Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=java,js&perline=6)](https://skillicons.dev)
 ### ⚙️ Backend
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,prisma,nodejs&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,hibernate,prisma,nodejs&perline=6)](https://skillicons.dev)
 ### 🎨 Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,jquery,tailwind,bootstrap&perline=6)](https://skillicons.dev)
 ### 💾 Database

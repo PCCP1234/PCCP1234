@@ -17,9 +17,9 @@
 ### 💾 Database
 [![My Skills](https://skillicons.dev/icons?i=mysql&perline=6)](https://skillicons.dev)
 ### 🔧 Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,linux,git,maven,postman,vim,vercel,bash&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,linux,git,maven,postman,vim,vercel,bash,aws&perline=10)](https://skillicons.dev)
 ### 📚 Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=react,angular,cs,aws&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,cs)](https://skillicons.dev)
 <br></br>
 # 📊 Statistics
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PCCP1234" alt="PCCP1234" /></p>
